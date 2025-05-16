@@ -2,7 +2,7 @@
 CC = gcc
 
 # Target executable name
-TARGET = audio_visualizer
+TARGET = jane-ui
 
 # Source files
 SRC = main.c
