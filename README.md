@@ -11,5 +11,5 @@ fuck you.
 
 in order to build run ```make```, You will recieve a executable named.
 
-[WARNING]
+> [!WARNING]
 > this isnt finished dum dum
