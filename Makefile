@@ -11,7 +11,7 @@ SRC = main.c
 OBJ = $(SRC:.c=.o)
 
 # Libraries to link
-LIBS = -lSDL2 -lSDL2_mixer -lmicrohttpd -lm -lpthread
+LIBS = -lSDL2 -lSDL2_mixer -lmicrohttpd -lm -lpthread -lcurl
 
 # Compiler flags
 CFLAGS = -Wall -Wextra -pedantic
